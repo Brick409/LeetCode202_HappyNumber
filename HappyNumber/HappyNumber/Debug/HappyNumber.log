@@ -1,0 +1,5 @@
+﻿  HappyNumber.cpp
+d:\code_project\c++_test\github_project\leetcode202_happynumber\happynumber\happynumber\happynumber.cpp(38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_project\c++_test\github_project\leetcode202_happynumber\happynumber\happynumber\happynumber.cpp(43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\code_project\c++_test\github_project\leetcode202_happynumber\happynumber\happynumber\happynumber.cpp(44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  HappyNumber.vcxproj -> D:\Code_Project\C++_Test\GitHub_Project\LeetCode202_HappyNumber\HappyNumber\Debug\HappyNumber.exe
